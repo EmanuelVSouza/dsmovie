@@ -6,7 +6,7 @@
     --white: #fff;
     --text-gray: #4a4a4a;
     --text-light-gray: #aaa;
-    --sta-yellow: #ffbb34;
+    --star-yellow: #ffbb34;
 }
 
 *{
@@ -103,7 +103,7 @@ a, a:hover {
 .dsmovie-card-description-bottom h4 {
     font-size: 16px;
     font-weight: 700;
-    color: var(--sta-yellow);
+    color: var(--star-yellow);
 }
 
 .dsmovie-card-description-bottom img {
@@ -206,7 +206,7 @@ a, a:hover {
 }
 
 .dsmovie-pagination-box button img {
-    filter: brightness(0) saturate(100%) invert(22%) sepia(65%) saturate(2015%) hue-rotate(230deg) brightness(101%) contrast(96%);
+    filter: brightness(0) saturate(100%) invert(22%) sepia(65%) saturate(2015%) hue-rotate(230deg) brightness(101%) contrast(89%);
 }
 
 .dsmovie-pagination-box button:disabled {
